@@ -27,4 +27,4 @@ The task was to compare different sort methods for different data types.
 - copy final code from SortMethods\SortMethods.cpp
 
 ## Research result
-My research with graphs and analisys is described in .docx file.
+My research with graphs and analisys is described in .pdf file.
