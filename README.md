@@ -17,13 +17,14 @@ The task was to compare different sort methods for different data types.
 10.	 Сортировка, встроенная в язык программирования (CSort)
 
 #### Data types
-- int
-- short int
-- string
-- date
+1. int
+2. short int
+3. string
+4. date
 
 ## How to run
-Load .sln as Visual Studio project.
+- load .sln with SortMethods field as Visual Studio Project.
+- copy final code from SortMethods\SortMethods.cpp
 
 ## Research result
 My research with graphs and analisys is described in .docx file.
