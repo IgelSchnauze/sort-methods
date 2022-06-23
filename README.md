@@ -23,8 +23,8 @@ The task was to compare different sort methods for different data types.
 4. date
 
 ## How to run
-- load .sln with SortMethods field as Visual Studio Project.
-- copy final code from SortMethods\SortMethods.cpp
+- load `.sln` with `SortMethods` field as Visual Studio Project.
+- copy final code from `SortMethods\SortMethods.cpp`
 
 ## Research result
-My research with graphs and analisys is described in .pdf file.
+My research with graphs and analisys is described in `.pdf` file.
